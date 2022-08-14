@@ -4,8 +4,7 @@ THIS IS a DemoProject for Samir Hoca
 
 # Git haqqında aşağıdakı komandaları araşdırın
 <br/><br/>
-<br/><br/>
-<br/><br/>
+
 
 git init - it creates a new repo in local
 <br/><br/>
