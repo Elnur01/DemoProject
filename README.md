@@ -12,3 +12,5 @@ remote add origin 'github repo ling' - links your workspace with github repo
 git push - pushes elemets from local repo to remote repo (remote branch)
 git status - shows the stages of all elements
 git log - shows the history of commitments and pushes
+
+thats all
